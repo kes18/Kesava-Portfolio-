@@ -1,0 +1,153 @@
+@media screen and (max-width: 1400px){
+   
+    #desktop-nav{
+        display: flex;
+    }
+    #hamburger-nav{
+        display: none;
+    }
+
+   
+  
+    
+}
+
+
+
+
+
+
+@media screen and (max-width: 1200px){
+   
+    #desktop-nav{
+        display: none;
+    }
+    #hamburger-nav{
+        display: flex;
+    }
+    #profile{
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+        margin-bottom: 40px;
+    }
+      /* .profile-pic-container{
+        display: inline;
+       
+    } */
+    .arrow1{
+        display: none;
+    }
+    .arrow{
+        display: none;
+    }
+    #about{
+        display: inline;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    /* .about-img{
+        margin-left: 10px;
+    } */
+    .about-div{
+        display: flex;
+        flex-wrap: wrap;
+        
+        justify-content: center;
+    }
+    .about-container_2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    .card-div-1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-bottom: 10px;
+
+    }
+
+    .card-div p{
+        padding: 10px;
+        
+    }
+
+    /* experience  */
+
+
+    #experience{
+        display: inline;
+        /* flex-wrap: wrap; */
+        justify-content: center;
+        padding: 10px;
+    }
+    .experience-flex-container{
+        display: flex;
+        /* justify-content: center; */
+       
+    }
+    .exp-div-1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 10px;
+
+    }
+
+    /* project */
+
+    
+    #project{
+        display: inline;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .flex-card{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+    }
+
+    /* contact */
+
+    #contact{
+        display: inline;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* padding: 10px; */
+    }
+    .contact-div1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* padding: 20px; */
+
+    }
+   
+    .footerdiv{
+        display: inline;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .nav-links1{
+        display: inline;
+        text-align: center;
+     list-style: none;
+    }
+
+   
+
+  
+
+.footerclass{
+    text-align: center;
+    /* display: flex; */
+}
+
+    
+}
